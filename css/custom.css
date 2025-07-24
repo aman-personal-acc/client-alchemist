@@ -712,7 +712,7 @@ header.main-header .header-sticky.active .navbar {
 
 .hero {
   position: relative;
-  background: url(".././assets/hero-bg49ea.jpg?alt=media&amp;token=fdc21420-c525-40bf-88fc-ae8c1c8f74ca");
+  background: url(".././assets/hero-bg49ea.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2187,7 +2187,7 @@ header.main-header .header-sticky.active .navbar {
 
 .page-header {
   position: relative;
-  background: url(".././assets/hero-bg49ea.jpg?alt=media&amp;token=fdc21420-c525-40bf-88fc-ae8c1c8f74ca");
+  background: url(".././assets/hero-bg49ea.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
